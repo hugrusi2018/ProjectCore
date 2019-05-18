@@ -1,0 +1,106 @@
+﻿@model ProjectCore.Logica.Models.BindingModel.TaskCreateBindingModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<form action="/Tasks/Create" method="post">
+    @Html.HiddenFor(x => x.ProjectId)
+    <div class="form-group">
+        <div class="col-md-12">
+            @Html.LabelFor(x => x.Title)
+            @Html.EditorFor(x => x.Title, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(x => x.Title, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-12">
+            @Html.LabelFor(x => x.Details)
+            @Html.EditorFor(x => x.Details, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(x => x.Details, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-12">
+            @Html.LabelFor(x => x.ExpirationDate)
+            @Html.EditorFor(x => x.ExpirationDate, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(x => x.ExpirationDate, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-12">
+            @Html.LabelFor(x => x.IsCompleted)
+            @Html.EditorFor(x => x.IsCompleted, new { htmlAttributes = new { @class = "form-check" } })
+            @Html.ValidationMessageFor(x => x.IsCompleted, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-12">
+            @Html.LabelFor(x => x.Effort)
+            @Html.EditorFor(x => x.Effort, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(x => x.Effort, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-12">
+            @Html.LabelFor(x => x.RemainingWork)
+            @Html.EditorFor(x => x.RemainingWork, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(x => x.RemainingWork, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <div class="col-md-12">
+            @Html.LabelFor(x => x.StateId)
+            @Html.DropDownListFor(x => x.StateId, new SelectList(ViewBag.States, "Id", "Name"), new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(x => x.StateId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-12">
+            @Html.LabelFor(x => x.ActivityId)
+            @Html.DropDownListFor(x => x.ActivityId, new SelectList(ViewBag.Activities, "Id", "Name"), new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(x => x.ActivityId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-12">
+            @Html.LabelFor(x => x.PriorityId)
+            @Html.DropDownListFor(x => x.PriorityId, new SelectList(ViewBag.Priorities, "Id", "Name"), new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(x => x.PriorityId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-12">
+            <button type="submit" class="btn btn-primary">
+                <i class="fas fa-save"></i>
+            </button>
+
+            @*@Html.ActionLink("Back", //name
+                "Index", //action
+                "Projects", //controller
+                null,
+                new { @class = "btn btn-primary" }//atributtes
+                )*@
+
+            @Html.ActionLink(" ", //name
+                 "Index", //action
+                 "Tasks", //controller
+                 new { projectId = Model.ProjectId},
+                 new { @class = "btn btn-primary fas fa-arrow-circle-left" }//atributtes
+                 )
+        </div>
+    </div>
+
+</form>

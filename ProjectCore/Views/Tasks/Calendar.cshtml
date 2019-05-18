@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "Calendar";
+}
+
+<h2>Calendar</h2>
+
+<div id="calendar"></div>
+
+<script>
+
+    $(function () {
+
+        GetTasks(0);
+
+    });
+
+    function GetTasks(projectId) {
+
+        var events = [];
+
+        events.push({
+            title: 'Clase Programación',
+            start: '2019-05-10',
+            end: '2019-05-10',
+            id: '',
+            color: '',
+            allDay: true,
+            textColor: ''
+        });
+
+        var calendarEl = document.getElementById('calendar');
+
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+
+            plugins: ['interaction', 'dayGrid'],
+            header: {
+                left: 'prevYear, prev,next,nextYear today',
+                center: 'title',
+                right: 'dayGridMonth,dayGridWeek,dayGridDay'
+            },
+            navLinks: true,
+            eventClick: function (eventObj) {
+                GetTask(eventObj.event.id);
+            },
+            events: events
+
+        });
+
+        calendar.render();
+
+    }
+</script>

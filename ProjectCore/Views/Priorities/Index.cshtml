@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ProjectCore.DAL.Models.Priorities>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a class="btn btn-primary fas fa-plus-circle" asp-action="Create">Create New</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Active)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Active)
+            </td>
+            <td>
+                <a class="btn btn-primary fas fa-edit btn-sm" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a class="btn btn-primary fas fa-info btn-sm" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a class="btn btn-primary fas fa-trash btn-sm" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
