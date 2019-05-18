@@ -1,0 +1,53 @@
+C:\Users\NEO2\Desktop\video 3\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.deps.json
+C:\Users\NEO2\Desktop\video 3\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\NEO2\Desktop\video 3\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\NEO2\Desktop\video 3\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\NEO2\Desktop\video 3\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.AssemblyInfoInputs.cache
+C:\Users\NEO2\Desktop\video 3\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.AssemblyInfo.cs
+C:\Users\NEO2\Desktop\video 3\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\NEO2\Desktop\video 3\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\NEO2\Desktop\video 3\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.runtimeconfig.json
+C:\Users\NEO2\Desktop\video 3\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.runtimeconfig.dev.json
+C:\Users\Connor\Downloads\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.deps.json
+C:\Users\Connor\Downloads\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.runtimeconfig.json
+C:\Users\Connor\Downloads\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.runtimeconfig.dev.json
+C:\Users\Connor\Downloads\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\Connor\Downloads\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\Connor\Downloads\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Downloads\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.AssemblyInfoInputs.cache
+C:\Users\Connor\Downloads\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.AssemblyInfo.cs
+C:\Users\Connor\Downloads\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\Connor\Downloads\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.deps.json
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.runtimeconfig.json
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.runtimeconfig.dev.json
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.AssemblyInfoInputs.cache
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.AssemblyInfo.cs
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.csprojAssemblyReference.cache
+C:\Users\ladasoft\source\repos\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.deps.json
+C:\Users\ladasoft\source\repos\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.runtimeconfig.json
+C:\Users\ladasoft\source\repos\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.runtimeconfig.dev.json
+C:\Users\ladasoft\source\repos\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\ladasoft\source\repos\Core\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\ladasoft\source\repos\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.csprojAssemblyReference.cache
+C:\Users\ladasoft\source\repos\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ladasoft\source\repos\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.AssemblyInfoInputs.cache
+C:\Users\ladasoft\source\repos\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.AssemblyInfo.cs
+C:\Users\ladasoft\source\repos\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\ladasoft\source\repos\Core\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.deps.json
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.runtimeconfig.json
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.runtimeconfig.dev.json
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\ProjectCore.DAL\bin\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.csprojAssemblyReference.cache
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.AssemblyInfoInputs.cache
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.AssemblyInfo.cs
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\ProjectCore.DAL\obj\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
