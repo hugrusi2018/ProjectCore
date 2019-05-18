@@ -1,0 +1,60 @@
+C:\Users\NEO2\Desktop\video 3\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.deps.json
+C:\Users\NEO2\Desktop\video 3\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.dll
+C:\Users\NEO2\Desktop\video 3\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.pdb
+C:\Users\NEO2\Desktop\video 3\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\NEO2\Desktop\video 3\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\NEO2\Desktop\video 3\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csprojAssemblyReference.cache
+C:\Users\NEO2\Desktop\video 3\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csproj.CoreCompileInputs.cache
+C:\Users\NEO2\Desktop\video 3\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.AssemblyInfoInputs.cache
+C:\Users\NEO2\Desktop\video 3\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.AssemblyInfo.cs
+C:\Users\NEO2\Desktop\video 3\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csproj.CopyComplete
+C:\Users\NEO2\Desktop\video 3\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.dll
+C:\Users\NEO2\Desktop\video 3\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.pdb
+C:\Users\Connor\Downloads\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.deps.json
+C:\Users\Connor\Downloads\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.dll
+C:\Users\Connor\Downloads\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.pdb
+C:\Users\Connor\Downloads\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\Connor\Downloads\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\Connor\Downloads\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csprojAssemblyReference.cache
+C:\Users\Connor\Downloads\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Downloads\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.AssemblyInfoInputs.cache
+C:\Users\Connor\Downloads\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.AssemblyInfo.cs
+C:\Users\Connor\Downloads\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csproj.CopyComplete
+C:\Users\Connor\Downloads\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.dll
+C:\Users\Connor\Downloads\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.pdb
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csprojAssemblyReference.cache
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.AssemblyInfoInputs.cache
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.AssemblyInfo.cs
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.dll
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.pdb
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.deps.json
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.dll
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.pdb
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\Connor\Downloads\Corte 02\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csproj.CopyComplete
+C:\Users\ladasoft\source\repos\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.deps.json
+C:\Users\ladasoft\source\repos\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.dll
+C:\Users\ladasoft\source\repos\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.pdb
+C:\Users\ladasoft\source\repos\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\ladasoft\source\repos\Core\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\ladasoft\source\repos\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csprojAssemblyReference.cache
+C:\Users\ladasoft\source\repos\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csproj.CoreCompileInputs.cache
+C:\Users\ladasoft\source\repos\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.AssemblyInfoInputs.cache
+C:\Users\ladasoft\source\repos\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.AssemblyInfo.cs
+C:\Users\ladasoft\source\repos\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csproj.CopyComplete
+C:\Users\ladasoft\source\repos\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.dll
+C:\Users\ladasoft\source\repos\Core\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.pdb
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.deps.json
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.dll
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.Logica.pdb
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.DAL.dll
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\Project.Logica\bin\Debug\netcoreapp2.1\ProjectCore.DAL.pdb
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csprojAssemblyReference.cache
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csproj.CoreCompileInputs.cache
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.AssemblyInfoInputs.cache
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.AssemblyInfo.cs
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.csproj.CopyComplete
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.dll
+C:\Users\ladasoft\Documents\GitHub\ProjectCore\ProjectCore\Project.Logica\obj\Debug\netcoreapp2.1\ProjectCore.Logica.pdb
